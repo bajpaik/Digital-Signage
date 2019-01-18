@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Digital Signage Table" language="en" table="x_202766_digital_s_digital_signage_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Digital Signage Table</label>
+            <language>en</language>
+            <name>x_202766_digital_s_digital_signage_table</name>
+            <plural>Digital Signage Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-18 18:20:09</sys_created_on>
+            <sys_id>72545f8edb0323001b219444ca9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Digital Signage Table</sys_name>
+            <sys_package display_value="Digital Signage" source="x_202766_digital_s">ea541b8edb0323001b219444ca9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Digital Signage">ea541b8edb0323001b219444ca9619fc</sys_scope>
+            <sys_update_name>sys_documentation_x_202766_digital_s_digital_signage_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-18 18:20:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
